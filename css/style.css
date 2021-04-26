@@ -727,7 +727,7 @@ img {
   font-size: 16px;
   text-transform: capitalize;
   margin: 0 0 10px;
-  color: var(--bg-black-600);
+  color: var(--text-black-600);
 }
 
 .about-section .skills .skill-item .progress {
